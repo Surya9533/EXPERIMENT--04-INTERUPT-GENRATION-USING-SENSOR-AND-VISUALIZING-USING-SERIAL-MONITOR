@@ -420,10 +420,12 @@ void assert_failed(uint8_t *file, uint32_t line)
  
  ## Circuit board :
  BEFORE OBSTACLE DETECTED:
-<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/39737604-f0b0-4c4c-bbc0-6fa9fe065278" />
-AFTER OBSTACLE IS DETECTED:
+ <img width="2416" height="2584" alt="image" src="https://github.com/user-attachments/assets/e2e06247-d53c-4aa8-a44f-307880fc2db0" />
 
-<img width="1280" height="729" alt="image" src="https://github.com/user-attachments/assets/5f9e8026-a2e0-44da-b2de-3a0a298822c5" />
+
+AFTER OBSTACLE IS DETECTED:
+<img width="2444" height="3068" alt="image" src="https://github.com/user-attachments/assets/161d9ad5-d74f-4194-a012-657cf9e8b879" />
+
 
 
  
