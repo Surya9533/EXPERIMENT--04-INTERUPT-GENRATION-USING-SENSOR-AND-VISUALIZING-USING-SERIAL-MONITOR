@@ -425,11 +425,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 AFTER OBSTACLE IS DETECTED:
-<img width="2444" height="3068" alt="image" src="https://github.com/user-attachments/assets/161d9ad5-d74f-4194-a012-657cf9e8b879" />
+<img width="1274" height="1600" alt="image" src="https://github.com/user-attachments/assets/013db43e-a588-43b5-b77f-4478bc993435" />
 
 
 
- 
- 
+
+  
 ## Result :
 Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port 
